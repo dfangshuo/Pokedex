@@ -1,2 +1,5 @@
-# PokedexProject
-# A Pokedex app that allows you to search for Pokemon by name, attack points and a range of other filters
+# Project 2: Pokedex
+A pokemon-finder app that returns pokemon(s) based on users' search parameters.
+Worked extensively with TableViews and CollectionViews
+
+
