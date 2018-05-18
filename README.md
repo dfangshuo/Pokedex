@@ -2,7 +2,7 @@
 
 *by Fang Shuo and Shubham*
 
-Pokedex is an iOS app that allows users to search for Pokemon via a number of parameters (like attack points, defence, health etc
+Pokedex is an iOS app that allows users to search for Pokemon via a number of parameters (like attack points, defence, health etc.)
 
 ## Features
 - **Search for Pokemon:** Specify search parameters and view a list of Pokemon that match the criterion
