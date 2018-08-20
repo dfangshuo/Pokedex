@@ -17,9 +17,9 @@ Pokedex is an iOS app that allows users to search for Pokemon via a number of pa
 
 Pokedex uses a local JSON data as the exhaustive list of all possible Pokemon. From this list, a narrow, more specific list is generated when the user enters search parameters. 
 
-To save user favorites, data is stored in user defaults so this information can persist between sessions. 
+The app is written in Swift 4, and the project featured extensive use of TableViews and CollectionViews to display Pokemon in different ways (depending on the user preference).
 
-The front-end was built using Swift 4, and the project featured extensive use of TableViews and CollectionViews to display Pokemon in different ways (depending on the user preference).
+To save user favorites, data is stored in UserDefaults so this information can persist between app terminations. 
 
 For this project, I implemented most of the front-end views while my partner (Shubham) handled a lot of the Pokemon Filtering.
 
